@@ -1,4 +1,5 @@
 <h1 align="center">RN-TourGuide</h1>
+<h2 align="center">cloned and added <a href="https://github.com/xcarpentier/rn-tourguide/pull/80">multiple tours</a> by b-steel, cloned and published by Climaider</h2>
 
 <p align="center">
   A flexible <strong>tourguide</strong> for your react native app!
